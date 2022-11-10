@@ -1,1 +1,1 @@
-# cs230-ethics-project
+# CS230 Entrepreneurship Project - PawFit
